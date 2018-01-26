@@ -1,6 +1,6 @@
-# StopwatchWeb
+# Angular 2 base project 
 
-This is a base Angular 2 project with webpack.
+This is an Angular 2 base project with webpack.
 How to run:
 - npm install
 - npm start
